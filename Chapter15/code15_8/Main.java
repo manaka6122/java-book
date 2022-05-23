@@ -1,4 +1,4 @@
-package code15_8;
+package Chapter15.code15_8;
 
 public class Main {
   public static void main(String[] args) {
